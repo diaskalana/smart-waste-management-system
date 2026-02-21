@@ -78,8 +78,8 @@ To set up the project locally, follow these steps:
 - **Earn Points**: Users earn points for reporting waste and helping with waste collection. These points contribute to the gamified leaderboard, encouraging user engagement.
 
 ## Contributors
-- Weerasinghe C.D. (IT19211688)
-- Dias D.D.K.S. (IT21220760)
-- Sandeepa K.B.A.R. (IT21809088)
+- Weerasinghe C.D. 
+- Dias D.D.K.S. 
+- Sandeepa K.B.A.R. 
 
 Feel free to contribute to this project by forking the repository and submitting pull requests for enhancements or bug fixes.
